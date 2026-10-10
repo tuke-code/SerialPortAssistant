@@ -175,8 +175,8 @@
 
       - 创建符号链接（可选，为了更好的命名）
 
-            $ sudo ln -sf /dev/pts/2 /dev/ttyVCOM0
-            $ sudo ln -sf /dev/pts/3 /dev/ttyVCOM1
+            $ sudo ln -sf /dev/pts/5 /dev/ttyVCOM0
+            $ sudo ln -sf /dev/pts/6 /dev/ttyVCOM1
 
     - 可以把上面两步合成以下一条命令
 
