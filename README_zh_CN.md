@@ -146,7 +146,7 @@
 
     - 把当前用户加入串口所属的组（建议）
 
-          sudo usermod -a -G dialout $USER
+          $ sudo usermod -a -G dialout $USER
 
     - 或者把需要访问的串口的权限授为当前用户（不建议）
 
